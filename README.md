@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **android,laravel,django**
+- 💬 Ask me about **React,laravel,android,django**
 
 - 📫 How to reach me **mahmoodmazum9@gmail.com**
 
