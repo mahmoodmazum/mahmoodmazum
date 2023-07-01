@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Golam Mahmood</h1>
-<h3 align="center">Innovative Software Developer | Laravel, PHP, Java, Android Expert | Experienced in Web and Mobile App Development</h3>
+<h3 align="center">Innovative Software Developer | React,Laravel, PHP, Java, Android Expert | Experienced in Web and Mobile App Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoodmazum&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoodmazum" /> </p>
 
